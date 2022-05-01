@@ -4,7 +4,7 @@ Hi 👋 My name is Mohamed Khater
 iOS Developer
 -------------
 
-I’m interested in mobile app development, especially in iOS platforms, So I started to study iOS Development and made some mobile apps lately. I enjoy searching to find a solution and learn from it.
+I’m interested in mobile app development, especially in iOS platforms
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [mohamed.15751@gmail.com](mailto:mohamed.15751@gmail.com)
