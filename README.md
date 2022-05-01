@@ -7,7 +7,8 @@ iOS Developer
 I’m interested in mobile app development, especially in iOS platforms, So I started to study iOS Development and made some mobile apps lately. I enjoy searching to find a solution and learn from it.
 
 *   🌍  I'm based in Cairo, Egypt
-*   ✉️  You can contact me at [mohamed.15751@gmail.com](mailto:mohamed.15751@gmail.com)### Skills<p align="left">
+*   ✉️  You can contact me at [mohamed.15751@gmail.com](mailto:mohamed.15751@gmail.com)
+### Skills<p align="left">
                                 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
