@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋,  I'm Mohamed Khater</h1>
-<h3 align="center">iOS developer</h3>
 
 <p align="center" >Hope you like what you will see.</p>
 
